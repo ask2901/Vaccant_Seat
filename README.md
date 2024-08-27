@@ -13,10 +13,10 @@ As the intake in NIT Surat is increasing day by day, the crowd in the campus res
 ----------
 *Problem Statement*
 ----------
-- Our challenge is to build a Computer Vision based System which captures live footage from the CCTV Camera in Sudarshan Restaurant and detect empty tables. 
+- Our challenge is to build a Computer Vision based System which captures live footage from the CCTV Camera in Canteen and detect empty tables. 
 - Empty tables will be surrounded with a green bounding box in the video and Occupied ones as Red.
-- This system can later be used for ICH, Library for the same problem statement after we've dealt with the challenges faced during Step 1: Sudarshan Restaurant.
-- Our plan is to display the live status on a website/app for all the IISERB community to access.
+- This system can later be used for ICH, Library for the same problem statement after we've dealt with the challenges faced during Step 1: Canteen.
+- Our plan is to display the live status on a website/app for all the NIT Surat Community to access.
 
 ----------
 *Prerequisites*
